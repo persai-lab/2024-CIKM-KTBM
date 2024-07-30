@@ -1,13 +1,13 @@
-# Towards Multi-Objective Behavior and Knowledge Modeling in Students (Pareto-GMKT & Pareto-TAMKOT)
+# Multi-Task Modeling of Student Knowledge and Behavior (KTBM)
 Code for our paper:
 
- S. Zhao, and S. Sahebi. Towards Multi-Objective Behavior and Knowledge Modeling in Students. In Adjunct Proceedings of the 32nd ACM Conference on User Modeling, Adaptation and Personalization (UMAP Adjunct ’24).
+ S. Zhao, and S. Sahebi. Multi-Task Modeling of Student Knowledge and Behavior. In Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM ’24).
 
 If you have any questions, please email szhao2@albany.edu
 
-## Multi-Task Student Knowledge and Behavior Model (KTBM):
+## KTBM Network Architecture:
 
-![Multi-Task-Student-Knowledge-and-Behavior-Model](model.png)
+![KTBM](model.png)
 
 
 ## Prerequisit
